@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Muhammad-Arhum-Naeem
 - 👀 I’m interested in ...Coding, Editing and creative web designs.
-- 🌱 I’m currently learning ... Multiple Programming languages
+-     I have certs in ...HTML, CSS, Responsive Web Designs and Marketing Coding.
+- 🌱 I’m currently learning ... JavaScript
 
 
 <!---
